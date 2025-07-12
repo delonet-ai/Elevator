@@ -93,7 +93,9 @@ const unsigned int STEP_DELAY = 1000;  // Минимальная задержк�
 - OLED-дисплей SSD1306 (0.91")	1	I2C, 128×32, SSD1306
 - Кнопки с подстветкой https://sl.aliexpress.ru/p?key=mFCD3h2 
 
-!!! STL + Fusion 360 в папке /CAD
+!!! STL + Fusion 360 в папке /CAD и по ссылке
+https://www.printables.com/model/1353500-elevator-lift-arduino
+https://www.thingiverse.com/thing:7089874
 
 Если используете этот проект — ⭐ на GitHub приветствуется!
 
