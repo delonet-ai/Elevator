@@ -1,4 +1,5 @@
-Project migrateg on ESP32, now available here: https://github.com/delonet-ai/Elevator-ESP32
+Project migrateg on ESP32, now available here: https://github.com/delonet-ai/Elevator-ESP32 **WIREELESS REMOTE!!**
+
 Проект переехал на ESP32, доступен вот тут: https://github.com/delonet-ai/Elevator-ESP32
 
 **English version below**
